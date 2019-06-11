@@ -5,7 +5,7 @@ import com.watch.glamour.pojo.deal.DealAbolishFee;
 import java.util.List;
 
 /**
- * 中介交易取消费用说明
+ *   测试中介交易取消费用说明
  */
 public interface DealAbolishFeeDao {
     /**

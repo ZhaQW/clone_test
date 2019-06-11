@@ -10,7 +10,6 @@ import java.util.List;
 public interface DealAbolishFeeDao {
     /**
      * 查看中介交易取消费用说明
-     * 测试查看中介交易取消费用说明
      *
      * @return
      */
